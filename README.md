@@ -119,9 +119,9 @@ Optimizer: Adam
 
 ##  Author
 
-**Revanth Reddy**
-AI & Data Science Undergraduate
-Specializing in Deep Learning, Computer Vision, and Applied AI Systems
+**Revanth Reddy Bommala**
+- AI & Data Science Undergraduate
+- Specializing in Deep Learning, Computer Vision, and Applied AI Systems
 
 ---
 
